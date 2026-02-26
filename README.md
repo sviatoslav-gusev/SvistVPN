@@ -4,7 +4,7 @@
 
 **Minimalistic VPN client with GUI for TrustTunnel protocol**
 
-[![Release](https://img.shields.io/github/v/release/sviatoslav-gusev/SvistVPN?label=Last%20version&color=0078D7)](https://github.com/sviatoslav-gusev/SvistVPN/releases/latest)
+[![Release](https://img.shields.io/github/v/release/sviatoslav-gusev/SvistVPN?label=Last%201.0&color=0078D7)](https://github.com/sviatoslav-gusev/SvistVPN/releases/latest)
 [![Platform](https://img.shields.io/badge/Platform-Windows-blue)]()
 
 </div>
