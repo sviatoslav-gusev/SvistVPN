@@ -10,7 +10,7 @@
 </div>
 
 ---
-### ✨Nutrition facts
+## ✨ Nutrition facts
 * [**TrustTunnel**](https://github.com/TrustTunnel) is modern VPN protocol by **AdGuard** team. 
 * **SvistVPN** uses [TrustTunnelClient](https://github.com/TrustTunnel/TrustTunnelClient) code as engine. 
 * **GUI** is based on Qt and represented in 🇬🇧 English, 🇷🇺 Русский, 🇨🇳 中文, 🇮🇷 فارسی languages.
