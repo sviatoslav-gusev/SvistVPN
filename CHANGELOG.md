@@ -1,7 +1,4 @@
-## 1.1
-
-[![Release](https://img.shields.io/github/v/release/sviatoslav-gusev/SvistVPN?label=1.1%20version&color=0078D7)](https://github.com/sviatoslav-gusev/SvistVPN/releases/1.1)
-[![Platform](https://img.shields.io/badge/Platform-Windows-blue)]()
+## SvistVPN 1.1
 
 ### 🌟 Key features of this release:
 * Handle zombie connectors in some cases
@@ -10,10 +7,8 @@
 * Add disclaimer
 * Remove some unnecessary Qt libs
 
-## 1.0
-
-[![Release](https://img.shields.io/github/v/release/sviatoslav-gusev/SvistVPN?label=1.0%20version&color=0078D7)](https://github.com/sviatoslav-gusev/SvistVPN/releases/1.0)
-[![Platform](https://img.shields.io/badge/Platform-Windows-blue)]()
+-----
+## SvistVPN 1.0
 
 ### 🚀 Welcome to the first public release of SvistVPN!
 
