@@ -8,6 +8,7 @@
 * Improve behavior on switching active configs
 * App runs only in single instance
 * Add disclaimer
+* Remove some unnecessary Qt libs
 
 ## 1.0
 
